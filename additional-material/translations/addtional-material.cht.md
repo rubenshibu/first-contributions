@@ -41,6 +41,6 @@
 ### [好用的連結](../Useful-links-for-further-learning.md)
 這份文件包含許多好用的部落格文章、網站、提示和小技巧，了解這些讓我們可以更容易上手。這一頁應該當做好用連結的索引，讓開源的新手還有想認識開源的人可以了解更多。
 
-### [擠壓 commits](../squashing-commits.md)
+### [擠壓 commits](.../squashing-commits.md)
 這份文件教你如何藉由互動式 rebase 擠壓 commits。
 > 如果你想要發出一個 PR，但檢閱者要求你將一部份 commits 擠壓成一個 commits 藉由互動式 rebase。
